@@ -1,4 +1,4 @@
-# TestTest
+# Check list
 This is the repository from my student lab.
 
 Порядок выполнения лабораторной работы #2
