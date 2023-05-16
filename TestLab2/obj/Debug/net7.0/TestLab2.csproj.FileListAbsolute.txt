@@ -1,0 +1,15 @@
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\bin\Debug\net7.0\TestLab2.exe
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\bin\Debug\net7.0\TestLab2.deps.json
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\bin\Debug\net7.0\TestLab2.runtimeconfig.json
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\bin\Debug\net7.0\TestLab2.dll
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\bin\Debug\net7.0\TestLab2.pdb
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.csproj.AssemblyReference.cache
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.AssemblyInfoInputs.cache
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.AssemblyInfo.cs
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.csproj.CoreCompileInputs.cache
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.dll
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\refint\TestLab2.dll
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.pdb
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\TestLab2.genruntimeconfig.cache
+D:\_Git`s_\VisualStudio_Repos\TestLab2\TestLab2\obj\Debug\net7.0\ref\TestLab2.dll
